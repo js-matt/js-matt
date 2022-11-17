@@ -1,4 +1,5 @@
 - 👋 Hi everyone,
+I'm Metthew Nguyen
 
 I have BA's degree in Computer Science and have over 6 years of experience in software development.
 
