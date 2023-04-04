@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matthew Nguyen</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=js-matto&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=js-matt&color=blue" alt="Profile views" /> </p>
 
 ### <img height="30" src="https://user-images.githubusercontent.com/77757301/126855288-0264f667-f8be-4c1d-9fe0-d0049d751dba.gif"> Languages and tools: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
